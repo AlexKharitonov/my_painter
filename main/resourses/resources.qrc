@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>circle.jpg</file>
+        <file>clear.png</file>
+        <file>line.jpg</file>
+        <file>rect.jpg</file>
+        <file>triang.jpg</file>
+    </qresource>
+</RCC>
